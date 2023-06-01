@@ -1,0 +1,13 @@
+PPPPPPPPPPPPP
+PE    E    EP
+P B   C   B P
+P P   A   PCP
+P P  A A  P P
+P   AAAAA   P
+P@  AACAA  TP
+P   AAAAA   P
+P P  ATA  P P
+P P   A   PCP
+P B   C   B P
+PE    E    EP
+PPPPPPPPPPPPP

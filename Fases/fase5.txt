@@ -1,0 +1,13 @@
+PPPPPPAPPPPPP
+P  B  A     P
+P     A     P
+P  E  A  C  P
+P     A     P
+P     A  C  P
+P  E  A     P
+P     A  C  P
+P     A     P
+P  E  A  C  P
+P     A     P
+PT @  A  B  P
+PPPPPPAPPPPPP

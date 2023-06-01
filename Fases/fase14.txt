@@ -1,0 +1,13 @@
+AAAAAAAAAAAAA
+AC   CCC   CA
+A     E     A
+A AAAAAAAAA A
+A AE     EA A
+A A       A A
+A A   @   A A
+A A   T   A A
+A A BB BB A A
+A AAAAAAAAA A
+A     B     A
+AE         EA
+AAAAAAAAAAAAA
