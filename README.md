@@ -34,5 +34,5 @@ https://github.com/Huthee/loloAdventure_c/assets/89394453/5069f733-9cbf-4e4b-ae7
 
 
 ## Feito Por:
-###      Gabriel Bohrer
-###      Pedro 
+###      Gabriel Alves Bohrer
+###      Pedro Afonso Tremea Serpa
