@@ -35,4 +35,4 @@ https://github.com/Huthee/loloAdventure_c/assets/89394453/5069f733-9cbf-4e4b-ae7
 
 ## Feito Por:
 ###      Gabriel Alves Bohrer
-###      Pedro Afonso Tremea Serpa
+###      Pedro Afonso Tremea Serpa (https://github.com/pedro-7123)
